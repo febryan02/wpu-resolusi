@@ -3,4 +3,4 @@ WPU RESOLUSI
 - mengelola tampilan website alfikr
 - membuat forum diskusi
 - menambah marc shop
-- membuat vlog
+- membuat project
